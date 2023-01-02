@@ -1,4 +1,4 @@
-###I am new to github, so I am working to recreate and upload some of the work I've done in the past. Thanks for checking it out!
+I am new to github, so I am working to recreate and upload some of the work I've done in the past. Thanks for checking it out!
 
 - 👋 Hi, I’m Kevin Stahl. 
 - 👀 I’m an experienced Data Analyst, Amateur Programmer, and Forensic Scientist.
@@ -12,8 +12,6 @@
   - My work in data analytics has improved HR and finance for the entire state of Texas Military. Many of the tools and processes I created are still in use today by various departments and levels.
   - I streamlined multiple processes that pay soldiers, activate benefits, and correct their records for which I received an award from the Texas Military Forces Commanding General.
   - I generated many reports and briefs that have been used to make large operational decisions across the State of Texas Military.
-
-I am new to github, so I am working to recreate and upload some of the work I've done in the past. Thanks for checking it out!
 
 <!---
 kwstahl/kwstahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
