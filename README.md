@@ -9,7 +9,7 @@
 - 💥 My Impact and awards 🎖️ 
   - My work in data analytics has improved HR and finance for the entire state of Texas Military. Many of the tools and processes I created are still in use today by various departments and levels.
   - I streamlined multiple processes that pay soldiers, activate benefits, and correct their records for which I received an award from the Texas Military Forces Commanding General.
-  - I generated many reports and briefs that have been used to make large operational decisions.
+  - I generated many reports and briefs that have been used to make large operational decisions across the State of Texas Military.
 
 
 <!---
