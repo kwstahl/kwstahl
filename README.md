@@ -11,7 +11,7 @@
   - I streamlined multiple processes that pay soldiers, activate benefits, and correct their records for which I received an award from the Texas Military Forces Commanding General.
   - I generated many reports and briefs that have been used to make large operational decisions across the State of Texas Military.
 
-##I am new to github, so I am working to recreate and upload some of the work I've done in the past. Thanks for checking it out!
+#I am new to github, so I am working to recreate and upload some of the work I've done in the past. Thanks for checking it out!
 
 <!---
 kwstahl/kwstahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
